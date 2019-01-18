@@ -1,0 +1,6 @@
+.content {
+   max-width: 600px;
+   margin: 0 auto;
+   background-color: tomato; 
+   height: 100%;
+}
